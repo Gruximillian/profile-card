@@ -11,21 +11,6 @@ body {
   padding: 100px 0;
 }
 
-.home-link {
-  text-align: center;
-}
-
-.home-link a {
-  text-transform: uppercase;
-  text-decoration: none;
-  color: maroon;
-  padding: 5px 10px;
-}
-
-.home-link a:hover {
-  text-decoration: underline;
-}
-
 /* CARD STYLES, IMPORTANT STUFF */
 
 .card {
